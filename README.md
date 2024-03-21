@@ -1,10 +1,10 @@
 # How to create a Wizard View in Xamarin.Forms
 
 This repository showcases the creation of Wizard View in Xamarin.Forms with the help of a Rotator control.
-#  Blog reference
+##  Blog reference
 [Create a Wizard View in Xamarin.Forms: A Novice’s Guide](https://www.syncfusion.com/blogs/post/create-a-wizard-view-in-xamarin-forms.aspx)
 
-#   Create a Wizard View in Xamarin.Forms
+##   Create a Wizard View in Xamarin.Forms
 1.   Follow the Getting Started with Xamarin Rotator Control documentation to add a Xamarin.Forms SfRotator control to your application.
 2.  Let’s initialize the Rotator control and set the following necessary properties based on the UI requirements:
 
